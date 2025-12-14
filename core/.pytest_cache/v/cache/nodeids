@@ -1,0 +1,4 @@
+[
+  "tests/test_selfloop_utils.py::test_build_next_loop_state_basic",
+  "tests/test_selfloop_utils.py::test_parse_selfloop_markdown_happy_path"
+]
